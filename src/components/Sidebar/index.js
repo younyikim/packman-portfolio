@@ -8,12 +8,12 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
   <div className="nav-bar">
-    <Link className="logo" to="/">
+    <Link className="logo" to="/packman-portfolio">
       <img src={LogoS} alt="logo" />
       <img className="sub-logo" src={LogoSubtitle} alt="logo" />
     </Link>
     <nav>
-      <NavLink exact="true" activeclassname="active" to="/">
+      <NavLink exact="true" activeclassname="active" to="/packman-portfolio">
         <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
       </NavLink>
       <NavLink

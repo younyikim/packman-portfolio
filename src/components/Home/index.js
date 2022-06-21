@@ -55,7 +55,7 @@ const Home = () => {
           />
         </h1>
         <h2>김연이 / Frontend Developer / SOPT 29th Web Part</h2>
-        <Link to="/contact" className="flat-button">
+        <Link to="/packman-portfolio" className="flat-button">
           CONTACT ME
         </Link>
       </div>
