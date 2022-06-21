@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/packman-portfolio/static/css/main.e6cc7d54.css",
+    "main.js": "/packman-portfolio/static/js/main.9897d37e.js",
+    "static/js/787.e0e0569a.chunk.js": "/packman-portfolio/static/js/787.e0e0569a.chunk.js",
+    "static/media/profile.png": "/packman-portfolio/static/media/profile.fccf954654b7f090a000.png",
+    "static/media/helvetica-neu.ttf": "/packman-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/packman-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/packman-portfolio/static/media/logo-s.53ed11242466a9c3e58c.png",
+    "static/media/logo_sub.png": "/packman-portfolio/static/media/logo_sub.db217d3ec42f8220d1e4.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/packman-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/teamble.svg": "/packman-portfolio/static/media/teamble.4545524632b0f1a5b3c4e227a5a65932.svg",
+    "index.html": "/packman-portfolio/index.html",
+    "main.e6cc7d54.css.map": "/packman-portfolio/static/css/main.e6cc7d54.css.map",
+    "main.9897d37e.js.map": "/packman-portfolio/static/js/main.9897d37e.js.map",
+    "787.e0e0569a.chunk.js.map": "/packman-portfolio/static/js/787.e0e0569a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cc7d54.css",
+    "static/js/main.9897d37e.js"
+  ]
+}
